@@ -1,8 +1,8 @@
 ## Information about this Repository
 
-Hello this repo is used for following a Next.js tutorial from [Code With Antonio - Next Auth V5](https://www.youtube.com/watch?v=1MTyCvS05V4)
-**I hereby state all the code here is owned by Antonio from Code With Antonio.**
-He has many more amazing youtube videos on Next.js and React. Check it out!
+Hello this repo is used for following a Next.js tutorial from [Code With Antonio - Next Auth V5](https://www.youtube.com/watch?v=1MTyCvS05V4)\
+**I hereby state all the code here is owned by Antonio from Code With Antonio.**\
+He has many more amazing youtube videos on Next.js and React. Check it out!\
 
 ## Getting Started
 
